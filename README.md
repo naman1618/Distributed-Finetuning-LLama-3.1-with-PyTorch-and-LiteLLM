@@ -1,8 +1,3 @@
-## Key Files
-
-### README.md
-
-```markdown
 # Distributed Fine-tuning of Meta Llama 3.1 70B
 
 This project demonstrates a distributed fine-tuning setup for the Meta Llama 3.1 70B model using PyTorch and LiteLLM, allowing for efficient processing across multiple GPU nodes.
